@@ -21,6 +21,9 @@ import pyarrow as pa
 import ydata_profiling as yd
  
 i want to ignore warning
+
 import warnings
+
 warnings.filterwarnings('ignore')
- import io
+
+import io
